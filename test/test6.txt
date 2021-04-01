@@ -1,0 +1,7 @@
+A, R, T.
+B, C, A.
+C, A.
+F, B, I.
+I.
+R, I.
+T, I.

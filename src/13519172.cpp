@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
-#include <bits/stdc++.h>
+#include <vector>
+#include <chrono>
 
 class matkul;
 class prerequisite;
@@ -197,7 +198,7 @@ int main() {
         std::ifstream r_file(file);
         std::string name_matkul;
         // baca file per baris dan masukkan ke variabel r_line
-        while (getline(r_file, r_line)) {
+        while (std::getline(r_file, r_line)) {
             int idx = 0;
             // iterasi dan cek per karakter pada r_line
             // jika ada ',' atau '.' maka masukkan ke dalam graf nama matkul 

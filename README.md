@@ -1,5 +1,5 @@
-# Tucil2-Stima
-Penyusunan Rencana Kuliah dengan Topological Sort  (Using Decrease and Conquer)
+# Course Scheduling
+Penyusunan Rencana Kuliah dengan Topological Sort (Using Decrease and Conquer)
 
 ## Penjelasan Singkat
 1. Program mengumpulkan matkul dan prequisitenya ke dalam graf
@@ -23,6 +23,7 @@ Tidak ada
 2. buka folder bin, lalu jalankan RencanaKuliah.exe
 3. masukkan input berupa nama file kemudian klik enter
 
+## Screenshot
 
 ## Author
 Muhammad Zubair

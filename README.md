@@ -25,9 +25,9 @@ Tidak ada
 
 ## Screenshot
 - test 1
-![Alt text](test/screenshoot-program/home.png?raw=true "Halaman Utama")
+![Alt text](screenshot/test_1.png?raw=true "test 1")
 - test 2
-![Alt text](test/screenshoot-program/perihal.png?raw=true "Perihal")
+![Alt text](screenshot/test_2.png?raw=true "test 2")
 
 ## Author
 Muhammad Zubair

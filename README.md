@@ -24,6 +24,10 @@ Tidak ada
 3. masukkan input berupa nama file kemudian klik enter
 
 ## Screenshot
+- test 1
+![Alt text](test/screenshoot-program/home.png?raw=true "Halaman Utama")
+- test 2
+![Alt text](test/screenshoot-program/perihal.png?raw=true "Perihal")
 
 ## Author
 Muhammad Zubair

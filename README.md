@@ -23,10 +23,12 @@ Tidak ada
 2. buka folder bin, lalu jalankan RencanaKuliah.exe
 3. masukkan input berupa nama file kemudian klik enter
 
-## Screenshot
-- test 1
+### Screenshot
+- Test 1
+
 ![Alt text](screenshot/test_1.png?raw=true "test 1")
-- test 2
+- Test 2
+
 ![Alt text](screenshot/test_2.png?raw=true "test 2")
 
 ## Author
